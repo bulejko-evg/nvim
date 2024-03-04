@@ -1,26 +1,30 @@
 # nvim
+```
+dnf install nodejs, gcc, gcc-c++, neovim python3-neovim
+npm install -g pyright
+```
 
-leader = " " \
+leader = " "
 
 # Neo-tree
-<leader>nf - tree float \
-<leader>nl - tree left \
+leader-nf - tree float \
+leader-nl - tree left 
 
 # Telescope
-<leader>ff - find files \
-<leader>fg - find grep \
+leader-ff - find files \
+leader-fg - find grep 
 
 # LSP
-<K> - Information about function \
+K - Information about function 
 
 # Comment
-<leader>c - Comment \
+leader-c - Comment 
 
 # Tabs
-<Tab> - Next tab \
+Tab - Next tab 
 
 # Navigate
-<c-k><c-j><c-h><c-l> \
+c-k, c-j, c-h, c-l 
 
 # Terminal
-<leader>tf - Terminal float \
+leader-tf - Terminal float 
