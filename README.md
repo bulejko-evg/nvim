@@ -28,3 +28,7 @@ c-k, c-j, c-h, c-l
 
 # Terminal
 leader-tf - Terminal float 
+
+# VENV
+In a root directory of the project make file **pyrightconfig.json** with:\
+{"venv": ".venv","venvPath": "."}
