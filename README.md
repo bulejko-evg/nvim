@@ -1,6 +1,6 @@
 # nvim
 ```
-dnf install nodejs, gcc, gcc-c++, neovim python3-neovim
+dnf install nodejs gcc gcc-c++ neovim python3-neovim
 npm install -g pyright
 ```
 
