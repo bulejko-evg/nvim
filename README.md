@@ -3,6 +3,10 @@
 dnf install nodejs gcc gcc-c++ neovim python3-neovim
 npm install -g pyright
 ```
+## install
+git clone to /home/<user>/.config/
+
+# leader
 
 leader = " "
 
