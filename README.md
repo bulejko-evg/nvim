@@ -4,7 +4,8 @@ dnf install nodejs gcc gcc-c++ neovim python3-neovim
 npm install -g pyright
 ```
 ## install
-git clone to /home/<i>user</i>/.config/
+git clone to /home/<i>user</i>/.config/ \
+for update :Lazy and U 
 
 # leader
 
